@@ -26,7 +26,6 @@ animation.forEach((animation) => {
 
 // section 3 & 7 image carousel
 
-
 var swiper = new Swiper(".mySwiper", {
   slidesPerView: 4,
   spaceBetween: 30,
@@ -49,17 +48,12 @@ var swiper = new Swiper(".mySwiper", {
       spaceBetween: 5,
     },
 
-    480: {
-    
+    520: {
       slidesPerView: 1,
-      spaceBetween: 5
-
-    }
-  }
+      spaceBetween: 5,
+    },
+  },
 });
-
-
-
 
 // const images = document.getElementById("vase-images");
 // const imageSelection = document.getElementById("imageSelection");
@@ -86,4 +80,3 @@ var swiper = new Swiper(".mySwiper", {
 //   popup.alt = "";
 // })
 // section 7 image carousel
-
