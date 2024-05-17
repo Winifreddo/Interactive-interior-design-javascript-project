@@ -1,5 +1,5 @@
 
-# JavaScript Login/Registration Project for Foodie Online Recipe Finder
+# JavaScript Login/Registration and interaction project for an interior design website
 
 ## Contents
 
