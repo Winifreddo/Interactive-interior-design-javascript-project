@@ -19,6 +19,8 @@ The aim of this project was to put in place a create a website that is interacti
 
 The project provides interactivity in the form of animations using javascript, a parallax design,  image galleries that users can click through and a login and registration form to capture data from the user and test it. 
 
+Hosted Link: https://famous-caramel-7046cb.netlify.app
+
 ## Languages
 
 - JavaScript
